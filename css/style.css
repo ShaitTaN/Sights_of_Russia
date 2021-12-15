@@ -148,22 +148,22 @@ button:focus {
 	background: rgba(0, 0, 0, 0.8);
 }
 .moscow{
-	background: url('./img/mos.jpg');
+	background: url('../img/mos.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .vladimir{
-	background: url('./img/vlad.jpg');
+	background: url('../img/vlad.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .kostroma{
-	background: url('./img/kost.jpg');
+	background: url('../img/kost.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 .suzdal{
-	background: url('./img/suzd.jpg');
+	background: url('../img/suzd.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -175,7 +175,7 @@ button:focus {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	background: url('./img/konvert_svg.svg');
+	background: url('../img/konvert_svg.svg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
